@@ -1,0 +1,129 @@
+html{
+    font-family: HelveticaNeue, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-image: url(img/fundo.png); 
+    background-position: center;
+    margin: 0px;
+}
+
+#search{
+    background: rgb(100,100,100,50%);
+}
+
+#t {
+    padding: 0px 20px 0px 10px;
+}
+
+nav{
+    display: flex;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu li {
+  margin-left: 10px;
+    text-decoration: 
+}
+
+.menu li a {
+  display: block;
+  padding: 10px;
+    
+}
+
+section {
+
+}
+
+nav li{
+    justify-content: space-between;
+}
+
+#terms li {
+    display: inline;
+    padding: 10px;
+}
+
+
+li:last-child{
+    align-self: flex-end;   
+}
+
+ul {
+    padding: 0;
+    width: 100%;
+}
+
+
+p {
+    text-align: center;
+    color: white;
+}
+
+#footer-t{
+    background-color: #00CF35;
+    padding: 20px 10px 20px 20px;
+    text-align: center;
+    text-decoration-color: white;
+    font-size: 16px;
+    margin: 0px;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    color : white;
+}
+
+#app {
+    text-align: center;
+    padding: 100px;
+}
+
+#form{
+    text-align: center;
+}
+
+#sing{
+    padding: 10px 100px 10px 100px; 
+    background-color: #00B8FF;
+    color: white;
+    font-size: 16px;
+    text-decoration: 
+}
+
+#log{
+    background: rgb(100,100,100,50%);
+    padding: 5px 20px 5px 20px;
+    font-size: 15px;
+}
+
+input {
+    background-color: #fff;
+    padding: 10px 85px 10px 10px;
+    text-align-last: left;
+}
+
+#espaco{
+    padding: 2px;
+}
+
+#terms{
+    font-size: 14px;
+}
+
+button{
+    color: white;
+}
